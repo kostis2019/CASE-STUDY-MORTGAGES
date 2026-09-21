@@ -1,4 +1,11 @@
-.DS_Store
-venv/
-__pycache__/
-.ipynb_checkpoints/
+# Ignore everything
+*
+
+# Keep repository files
+!.gitignore
+!README.md
+!Case-Study-Mortgages.ipynb
+
+# Future presentation
+!Case-Study-Mortgages.pdf
+!Case-Study-Mortgages.pptx
