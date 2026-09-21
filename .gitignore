@@ -1,6 +1,11 @@
 # Ignore everything
 *
 
+# Ignore additional
+.Rhistory
+.RData
+.Ruserdata
+
 # Keep repository files
 !.gitignore
 !README.md
