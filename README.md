@@ -10,9 +10,8 @@ A credit risk modelling case study using a mortgage portfolio dataset.
 
 The analysis covers:
 
-- Portfolio and data overview
-- Structural vs. behavioural risk modelling
-- Probability of Default (PD) modelling
+- Portfolio Overview
+- Structural vs. Behavioural risk (Probability of Default) modelling
 - Model performance evaluation
 - Credit policy analysis
 - Expected Loss and Economic Capital assessment
