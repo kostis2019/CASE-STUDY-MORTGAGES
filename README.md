@@ -4,7 +4,8 @@ A credit risk modelling case study using a mortgage portfolio dataset.
 
 ## Contents
 
-- `Case-Study-Mortgages.ipynb` — complete case study, including data exploration, PD modelling, model evaluation and credit policy analysis.
+- `Notebook (.ipynb)` — complete case study, including data exploration, PD modelling, model evaluation and credit policy analysis.
+- `Slides   (.pdf)  ` — case study overview.
 
 ## Methodology
 
